@@ -1,2 +1,1 @@
-rocks.nifi.examples.processors.JsonProcessor
-rocks.nifi.examples.processors.ControllerServiceProcessor
+rocks.nifi.examples.processors.DoNothingCacheTestProcessor
